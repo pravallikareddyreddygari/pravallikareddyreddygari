@@ -58,10 +58,3 @@ If my projects helped you or saved you time, consider buying me a coffee!
 <a href="https://buymeacoffee.com/pravallika" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"/>
 </a>
-```
-
----
-
-**Commit message:**
-```
-Add profile README with bio, tech stack, projects and sponsor button
