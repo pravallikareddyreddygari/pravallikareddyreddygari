@@ -48,6 +48,8 @@
 | [authentication-app](https://github.com/pravallikareddyreddygari/authentication-app) | Secure auth with email/password | [▶ Demo](https://authentication-app-pra.vercel.app/) |
 | [mini-chatgpt](https://github.com/pravallikareddyreddygari/mini-chatgpt) | AI-powered ChatGPT clone | [▶ Demo](https://mini-chatgpt.vercel.app/) |
 | [mindbook](https://github.com/pravallikareddyreddygari/mindbook) | Social networking feed app | [▶ Demo](https://mindbook-pra.vercel.app/) |
+| [mindbook](https://github.com/pravallikareddyreddygari/student) | Social networking feed app | [▶ Demo](https://student-busp.vercel.app/) |
+
 
 ---
 
