@@ -21,7 +21,7 @@
 - 🏆 Solved **400+ LeetCode DSA** problems
 - 📫 Reach me at: [reddygaripravallikareddy@gmail.com](mailto:reddygaripravallikareddy@gmail.com)
 - 🔗 LinkedIn: [in/pravallikareddyreddygari](https://linkedin.com/in/pravallikareddyreddygari)
-
+- 🔗 Leetcode: [in/pravallikareddyreddygari](https://leetcode.com/u/pravallikareddyreddygari/)
 ---
 
 ## 🛠️ Tech Stack
