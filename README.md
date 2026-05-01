@@ -50,7 +50,6 @@
 | [mini-chatgpt](https://github.com/pravallikareddyreddygari/mini-chatgpt) | AI-powered ChatGPT clone | [▶ Demo](https://mini-chatgpt.vercel.app/) |
 | [mindbook](https://github.com/pravallikareddyreddygari/mindbook) | Social networking feed app | [▶ Demo](https://mindbook-pra.vercel.app/) |
 | [student-management-system](https://github.com/pravallikareddyreddygari/student-management-system) |Student record app |  [▶ Demo](https://student-management-pra.vercel.app/)|
-
 | [hospital-appointment](https://github.com/pravallikareddyreddygari/Hospital-appointment )|Hospital-appointment app | [▶ Demo](https://hospital-appointment-pra.vercel.app/)|
 
 
