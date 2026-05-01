@@ -45,7 +45,7 @@
 |---|---|---|
 | [leetcode-solutions](https://github.com/pravallikareddyreddygari/leetcode-solutions) |Leet code | [▶ Demo](https://leetcode.com/u/pravallikareddyreddygari/) |
 | [mini-whatsapp](https://github.com/pravallikareddyreddygari/mini-whatsapp) | Real-time WhatsApp-inspired chat app | [▶ Demo](https://mini-whatsapp-pra.vercel.app/) |
-| [mini-ms-teams](https://github.com/pravallikareddyreddygari/mini-ms-teams) | Microsoft Teams-style collaboration app | [▶ Demo](https://mini-ms-teams.vercel.app/) |
+| [mini-ms-teams](https://github.com/pravallikareddyreddygari/mini-ms-teams) | Microsoft Teams-style collaboration app | [▶ Demo](https://mini-ms-teams-pra.vercel.app/) |
 | [authentication-app](https://github.com/pravallikareddyreddygari/authentication-app) | Secure auth with email/password | [▶ Demo](https://authentication-app-pra.vercel.app/) |
 | [mini-chatgpt](https://github.com/pravallikareddyreddygari/mini-chatgpt) | AI-powered ChatGPT clone | [▶ Demo](https://mini-chatgpt.vercel.app/) |
 | [mindbook](https://github.com/pravallikareddyreddygari/mindbook) | Social networking feed app | [▶ Demo](https://mindbook-pra.vercel.app/) |
