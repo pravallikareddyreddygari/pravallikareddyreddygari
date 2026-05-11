@@ -12,7 +12,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 - 🔭 Currently building open-source mini apps — WhatsApp, MS Teams, ChatGPT clones & more
